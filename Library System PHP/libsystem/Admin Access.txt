@@ -1,0 +1,11 @@
+
+FOR ADMIN'S LOGIN
+
+  username = Librarian
+  password = password
+
+  username = Leozkie
+  password = 12345
+
+
+https://www.rexestore.com/497-senior-high-school
